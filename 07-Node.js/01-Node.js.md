@@ -1,23 +1,5 @@
 官网http://nodejs.cn/
 
-## 前提能力
-
-html、css、JS、http
-
-
-
-环境搭建
-
-调试
-
-模块
-
-mysql
-
-express
-
-产出：后台管理系统
-
 ## Node是什么？
 
 ***Node*.*js* 是环境**。一个基于 Chrome V8 引擎的 **JS运行 环境**。
